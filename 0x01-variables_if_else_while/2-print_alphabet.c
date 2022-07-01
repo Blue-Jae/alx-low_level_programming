@@ -4,7 +4,7 @@
 
 /**
  * main - Prints the alphabet.
- *@void: Empty parameter list for main.
+ * @void: Empty parameter list for main.
  * 
  * Description: Prints the alphabet in lower case
  * Can only use putchar
@@ -21,5 +21,5 @@ int main(void)
 		letter++;
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
