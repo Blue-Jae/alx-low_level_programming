@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
- * main - Determines if a number is positive, negative or zero. * main - Positive or Negative - print sign of random number
+ * main - Positive or Negative - print sign of random number
  * @void: Empty parameter list for main.
  * 
  * Description: this if/else statement delares the sign (positive
