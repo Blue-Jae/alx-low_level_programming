@@ -8,7 +8,7 @@
  * 
  * Description: Prints the alphabet in lower case
  * Can only use putchar
- *
+ * 
  * Return: 0 for success
  */
 int main(void)
