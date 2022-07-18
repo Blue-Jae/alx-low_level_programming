@@ -1,7 +1,7 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef MAIN_H
+#define MAIN_H
 
-int _putchar(char c)
+int _putchar(char ci)
 char *_memset(char *s, char b, unsigned int n);
 
 #endif
